@@ -479,8 +479,8 @@
 }
 
 @media (max-width: 767px) {
-  .u-section-2 .u-gallery-1 {
-    height: 214px;
+  .u-section-4 .u-gallery-1 {
+    height: 100%;
     width: auto;
     margin-right: initial;
     margin-left: initial;
@@ -488,24 +488,24 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-2 .u-sheet-1 {
+  .u-section-4 .u-sheet-1 {
     min-height: 221px;
   }
 
-  .u-section-2 .u-gallery-1 {
+  .u-section-4 .u-gallery-1 {
     height: 134px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
   }
 
-  .u-section-2 .u-carousel-control-1 {
+  .u-section-4 .u-carousel-control-1 {
     left: 10px;
     width: 24px;
     height: 24px;
   }
 
-  .u-section-2 .u-carousel-control-2 {
+  .u-section-4 .u-carousel-control-2 {
     width: 24px;
     height: 24px;
     right: 10px;
