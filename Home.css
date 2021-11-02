@@ -399,42 +399,42 @@
     padding-bottom: 6px;
   }
 }
-.u-section-1 .u-sheet-1 {
+.u-section-4 .u-sheet-1 {
   min-height: 501px;
 }
 
-.u-section-1 .u-gallery-1 {
+.u-section-4 .u-gallery-1 {
   height: 400px;
   width: 1000px;
   margin: 51px auto;
 }
 
-.u-section-1 .u-carousel-indicators-1 {
+.u-section-4 .u-carousel-indicators-1 {
   position: absolute;
   bottom: 10px;
   width: auto;
   height: auto;
 }
 
-.u-section-1 .u-carousel-item-1 {
+.u-section-4 .u-carousel-item-1 {
   margin-right: 0;
 }
 
-.u-section-1 .u-over-slide-1 {
+.u-section-4 .u-over-slide-1 {
   min-height: 100px;
   padding: 10px;
 }
 
-.u-section-1 .u-carousel-item-2 {
+.u-section-4 .u-carousel-item-2 {
   margin-right: 0;
 }
 
-.u-section-1 .u-over-slide-2 {
+.u-section-4 .u-over-slide-2 {
   min-height: 100px;
   padding: 10px;
 }
 
-.u-section-1 .u-carousel-control-1 {
+.u-section-4 .u-carousel-control-1 {
   position: absolute;
   left: 10px;
   width: 40px;
@@ -443,7 +443,7 @@
   box-shadow: 0 0 8px 0 rgba(128,128,128,1);
 }
 
-.u-section-1 .u-carousel-control-2 {
+.u-section-4 .u-carousel-control-2 {
   position: absolute;
   right: 10px;
   width: 40px;
@@ -453,13 +453,13 @@
 }
 
 @media (max-width: 1199px) {
-  .u-section-1 .u-gallery-1 {
+  .u-section-4 .u-gallery-1 {
     width: 940px;
   }
 }
 
 @media (max-width: 991px) {
-  .u-section-1 .u-gallery-1 {
+  .u-section-4 .u-gallery-1 {
     margin-bottom: 60px;
     height: 289px;
     margin-right: initial;
@@ -467,19 +467,19 @@
     width: auto;
   }
 
-  .u-section-1 .u-carousel-control-1 {
+  .u-section-4 .u-carousel-control-1 {
     left: 25px;
     right: auto;
   }
 
-  .u-section-1 .u-carousel-control-2 {
+  .u-section-4 .u-carousel-control-2 {
     left: auto;
     right: 29px;
   }
 }
 
 @media (max-width: 767px) {
-  .u-section-1 .u-gallery-1 {
+  .u-section-2 .u-gallery-1 {
     height: 214px;
     width: auto;
     margin-right: initial;
@@ -488,24 +488,24 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-sheet-1 {
+  .u-section-2 .u-sheet-1 {
     min-height: 221px;
   }
 
-  .u-section-1 .u-gallery-1 {
+  .u-section-2 .u-gallery-1 {
     height: 134px;
     width: auto;
     margin-right: initial;
     margin-left: initial;
   }
 
-  .u-section-1 .u-carousel-control-1 {
+  .u-section-2 .u-carousel-control-1 {
     left: 10px;
     width: 24px;
     height: 24px;
   }
 
-  .u-section-1 .u-carousel-control-2 {
+  .u-section-2 .u-carousel-control-2 {
     width: 24px;
     height: 24px;
     right: 10px;
